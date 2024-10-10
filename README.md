@@ -2,11 +2,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://www.youtube.com/watch?v=MHsI8hJmggI&t=46s)
+  - [Active Directory Home Lab]
 
-
-- [Set up SIEM in Azure](https://www.youtube.com/watch?v=P9wz0Sted_I)
-
+- [Set up SIEM in Azure]
 
 
 
